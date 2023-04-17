@@ -2,3 +2,4 @@ MY_RESULISI
 
 -Konsisten belajar minimal 5 jam perhari
 -Belajar bahasa inggris setiap hari
+-Berkolabrasi dengan banyak programmer
